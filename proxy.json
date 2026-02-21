@@ -1,7 +1,5 @@
 {
   "proxy_list": [
-    "",
-    "",
-    ""
+    "tg://proxy?server=23.230.179.235&port=8443&secret=ee9234c8b7b15e6edf101ed2184322d0416568312e766b2e636f6d"
   ]
 }
